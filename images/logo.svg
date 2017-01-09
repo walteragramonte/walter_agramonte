@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient id="svg_9" spreadMethod="reflect">
+   <stop stop-color="#49a3c1" offset="0.459656"/>
+   <stop stop-color="#ffffff" stop-opacity="0.996094" offset="1"/>
+   <stop stop-color="0" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path fill="url(#svg_9)" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m3,3l282.99999,0l0,95.99999l-282.99999,0l0,-95.99999z" id="svg_8" opacity="0.95" stroke="#1455aa"/>
+  <text stroke="#ffffff" transform="matrix(1.471714783003506,0,0,1.471714783003506,-8.868594271697061,-4.368445504160451) " fill="#191919" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.9" x="54.478469" y="36.408661" id="svg_11" font-size="24" font-family="Cursive" text-anchor="middle" xml:space="preserve" font-weight="bold">Walter</text>
+  <text stroke="#ffffff" transform="matrix(1.293256696139622,0,0,1.293256696139622,-33.23497250718479,-13.43905783987858) " id="svg_1" fill="#191919" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.9" x="179.452129" y="67.865881" font-size="24" font-family="Cursive" text-anchor="middle" xml:space="preserve" font-weight="bold">Agramonte</text>
+ </g>
+</svg>
