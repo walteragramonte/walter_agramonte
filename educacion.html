@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Curriculum Vitae</title>
+	</head>
+	<body>
+    <header>
+        <svg width="500px" heigth="100px" viewBox="0 0 500 100">
+          <image width="500px" heigth="100px" xlink:href="images/logo.svg"> </image>
+        </svg>
+		    <h1>Curriculum Vitae</h1>
+				<h2>Walter Agramonte</h2>
+				<h3>12/11/1989 - Piura</h3>
+    </header>
+		<navbar>
+			<a href="index.html">Inicio</a>
+			|
+			<a href="educacion.html">Educacíon</a>
+			|
+			<a href="experiencia.html">Experiencia</a>
+		</navbar>
+		<section>
+			<article>
+				<h2>Educación</h2>
+				<table border="1" cellpadding="10" cellspacing="0">
+					<thead>
+						<tr>
+							<th>Año</th>
+							<th>Institucion</th>
+							<th>Lugar</th>
+							<th>¿Culminó?</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>2005</td>
+							<td>Institución Educativa Santa Rita</td>
+							<td>Piura, Peru</td>
+							<td>Si</td>
+						</tr>
+						<tr>
+							<td>2013</td>
+							<td>Universidad Peruana de las Americas</td>
+							<td>Lima, Peru</td>
+							<td>Si</td>
+						</tr>
+					</tbody>
+				</table>
+				<h1>Agregar Estudios</h1>
+				<form action="">
+				<p>
+					<label for="year"><strong>Año:</strong></label>
+					<select name="year">
+						<option value="1">2016</option>
+						<option value="2">2015</option>
+						<option value="3">2014</option>
+						<option value="4">2013</option>
+						<option value="5">2012</option>
+					</select>
+				</p>
+				<p>
+					<label for="inst"><strong>Institución:</strong></label>
+					<input type="text" name="inst" required>
+				</p>
+				<p>
+					<label for="lugar"><strong>Lugar: </strong></label>
+					<textarea name="lugar" cols="30" rows="3"></textarea>
+				</p>
+				<p>
+					<label for="culm"><strong>¿Culminó?: </strong></label>
+					<input type="radio" name="culm"> Si
+					<input type="radio" name="culm"> No
+				</p>
+				<p>
+					<input type="submit" value="Enviar">
+				</p>
+				</form>
+			</article>
+		</section>
+		<footer>
+			<p>&copy;Derechos Reservados</p>
+			<ul>
+				<li><strong>Email: </strong>walteragramonte@hotmail.com</li>
+				<li><strong>Teléfono: </strong>994975980</li>
+				<li><strong>Dirección: </strong>Av. Cesar Vallejo 1489. Lima, Lima, Peru.</li>
+			</ul>
+		</footer>
+	</body>
+</html>
